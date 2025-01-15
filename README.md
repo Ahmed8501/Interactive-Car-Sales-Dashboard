@@ -12,4 +12,4 @@ The dashboard includes:
 
 
 
-![PowerBI-Car-Sales(Dashboard.png)
+![Car Sales Dashboard](Dashboard.png)
