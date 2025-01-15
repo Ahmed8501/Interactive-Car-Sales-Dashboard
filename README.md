@@ -1,5 +1,5 @@
 # Interactive Car Sales Dashboard with Power BI
-This project demonstrates an **interactive car sales dashboard** developed using Power BI to analyze sales performance, identify trends, and provide actionable insights. 
+This project demonstrates an interactive car sales dashboard developed using Power BI to analyze sales performance, identify trends, and provide actionable insights. 
 
 ## 📊 Dashboard Overview
 ## 🚀 Features
