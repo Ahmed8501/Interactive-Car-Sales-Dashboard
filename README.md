@@ -9,3 +9,7 @@ The dashboard includes:
   - Sales breakdown by body style and color.
   - Dealer region-wise car sales on a geographic map.
   - Company-wise sales trends including average price and total sales.
+
+
+
+![PowerBI-Car-Sales(Dashboard.png)
